@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "pytrition"
+version = "0.1.0"
+description = "Nutrition Facts data for common foods."
+authors = ["Sabih Hass"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
