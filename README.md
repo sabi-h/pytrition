@@ -10,7 +10,7 @@ Python library for nutrition facts data for common foods.
     make clean
 
 
-### Data Source
+### Data Source
 https://fdc.nal.usda.gov/download-datasets.html
 
 ### Publish Package to PyPi
